@@ -1,0 +1,10 @@
+{
+  "name": "node-red-hh-lora-serialization",
+  "version": "0.0.1",
+  "description": "NodeRED Nodes for serialising and deserialising LoRaMessages.",
+  "keywords": [
+    "NodeRED"
+  ],
+  "author": "Patrick Nitschke",
+  "license": "ISC"
+}
